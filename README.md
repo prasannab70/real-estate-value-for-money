@@ -34,3 +34,27 @@ A Django-based web application that predicts **total property price** using
 ## 🧮 Prediction Logic
 
 ### Total Property Price:
+
+### Value Score:
+
+Higher value score ⇒ better value for money.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Backend:** Python, Django  
+- **Frontend:** HTML, Bootstrap, Chart.js  
+- **Database:** SQLite  
+- **Version Control:** Git & GitHub  
+
+---
+
+## ▶️ How to Run the Project
+
+```bash
+pip install -r requirements.txt
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+
