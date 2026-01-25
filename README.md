@@ -7,7 +7,7 @@ A Django-based web application that predicts **total property price** using
 
 ## 📸 Application Screenshot
 
-![Value for Money Property Recommendation](app.png)
+![Value for Money Property Recommendation](pic.PNG)
 
 > The above screenshot shows:
 > - Area slider
